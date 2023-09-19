@@ -501,4 +501,33 @@ While the discussed bottlenecks sound more operational than logical, they accumu
 | Does the website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)? | 1 | [Link](https://github.com/nehajaideep/WolfTrack3.0/tree/Group10StableBranch#-phase-4-wolftrack-40-future-scope) |
 | Does the website or documentation describe how your project is funded, and the period over which funding is guaranteed? | 0 | |
 | Do they make timely announcements of the deprecation of components, APIs, etc.?| 0 | |
-| Total| 161 | 
+|Video-2min video of new functionality, showing a significant delta from prior.|3|[Link](https://github.com/nehajaideep/WolfTrack3.0#-punch-line)|
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others but nevertheless, here is a track record that everyone is contributing a lot)|3|[Link](https://github.com/nehajaideep/WolfTrack3.0/commits/Group10StableBranch?after=eeff0b694f5701e768a1620d86c4ad3d2040c8e0+34&branch=Group10StableBranch&qualified_name=refs%2Fheads%2FGroup10StableBranch)|
+|Number of commits|3|[Link](https://github.com/nehajaideep/WolfTrack3.0/commits/Group10StableBranch?after=eeff0b694f5701e768a1620d86c4ad3d2040c8e0+34&branch=Group10StableBranch&qualified_name=refs%2Fheads%2FGroup10StableBranch)
+|Number of commits: by different people|3|[Link](https://github.com/nehajaideep/WolfTrack3.0/commits/Group10StableBranch?after=eeff0b694f5701e768a1620d86c4ad3d2040c8e0+34&branch=Group10StableBranch&qualified_name=refs%2Fheads%2FGroup10StableBranch)|
+|Issues reports: there are **many**|22 Closed|[Link](https://github.com/nehajaideep/WolfTrack3.0/issues)|
+|Issues are being closed|22 Closed|[Link](https://github.com/nehajaideep/WolfTrack3.0/issues)|
+|DOI badge: exists|Yes,3| [Link](https://zenodo.org/badge/latestdoi/428810078)|
+|Docs: doco generated, format not ugly |2| |
+|Docs: what: point descriptions of each class/function (in isolation) |
+|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|0||
+|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|2||
+|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|1||
+|Use of version control tools|2|
+|Use of style checkers |0| Not found |
+|Use of code formatters. | 0 | | 
+|Use of syntax checkers. |0 |
+|Use of code coverage |1| [Link](https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/.github/workflows/coverage.yml)|
+|Other automated analysis tools|1|
+|Test cases exist|1|[Link](https://github.com/nehajaideep/WolfTrack3.0/tree/Group10StableBranch/UnitTesting)
+|Test cases are routinely executed|2|[Link](https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/.travis.yml)
+|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|3|[Link](https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/CONTRIBUTING.md)
+|Issues are discussed before they are closed|2|[Link](https://github.com/nehajaideep/WolfTrack3.0/issues/29)
+|Chat channel: exists|0|
+|Test cases: a large proportion of the issues related to handling failing cases.|0|
+|Evidence that the whole team is using the same tools: everyone can get to all tools and files|1|
+|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|1||
+|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|2||
+|Evidence that the members of the team are working across multiple places in the code base|3|[Link](https://github.com/nehajaideep/WolfTrack3.0/commits/Group10StableBranch)
+|Short release cycles | 2|[Link](https://github.com/nehajaideep/WolfTrack3.0/commits/Group10StableBranch)
+| Total| 208 | 
